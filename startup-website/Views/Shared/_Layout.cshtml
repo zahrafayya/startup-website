@@ -1,0 +1,74 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] | Kaleidoscope Studio</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="~/css/layout.css" />
+    @RenderSection("Styles", false)
+    <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap" rel="stylesheet"> 
+    <link href="https://fonts.googleapis.com/css2?family=Varela+Round&display=swap" rel="stylesheet">
+    
+</head>
+<body>
+    <header>
+       <nav class="navbar navbar-expand-md">
+            <a class="navbar-brand" asp-area="" asp-controller="q1" asp-action="Index"><img class="align-middle" src="~/css/images/logo.png"></a>
+            <button class="navbar-toggler navbar-dark" type="button" data-toggle="collapse" data-target="#main-navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="main-navigation">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" asp-area="" asp-controller="q1" asp-action="Profile">PROFILE</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-area="" asp-controller="q1" asp-action="Company">COMPANY</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-area="" asp-controller="q1" asp-action="Product">PRODUCT</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-area="" asp-controller="q1" asp-action="Collaboration">COLLABORATION</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">CREDITS</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <div>
+        <main role="main">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="bg-dark text-center text-white">
+        <div class="container p-4 pb-0">
+            <section class="mb-4">
+            <a class="btn btn-floating m-1" href="#!" role="button">
+                <img class="btn-img" src="~/css/images/twitter.png">
+            </a>
+          
+            <a class="btn btn-floating m-1" href="#!" role="button">
+                <img class="btn-img" src="~/css/images/youtube.png">
+            </a>
+          
+            <a class="btn btn-floating m-1" href="#!" role="button">
+                <img class="btn-img" src="~/css/images/steam.png">
+            </a>
+            </section>
+        </div>
+        <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+        © 2020 Copyright Kaleidoscope Studio
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

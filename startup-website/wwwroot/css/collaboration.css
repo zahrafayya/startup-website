@@ -1,0 +1,10 @@
+.catchphrase {
+    font-size: xx-large;
+    font-weight: 600;
+    margin-bottom: 16px;
+}
+
+.description p {
+    margin-top: 16px;
+    margin-left: 0;
+}

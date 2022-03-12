@@ -1,0 +1,61 @@
+.section {
+    display: block;
+    color: white;
+    padding-top: 24px;
+    padding-left: 28px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.title {
+    font-size: medium;
+    font-style: bold;
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.title img {
+    float: left;
+    height: 72px;
+    width: auto;
+    margin-left: 16px;
+}
+
+.title h1 {
+    background-color: #fff;
+    background-image: linear-gradient(90deg, rgb(37, 212, 231) 8%, rgba(88,255,118,1) 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    cursor: pointer;
+    font-family: 'Inter', sans-serif;
+    font-size: 48px;
+    width: 50%;
+    justify-content: center;
+    margin: auto;
+    margin-left: 40px;
+    font-weight: 600;
+
+}
+
+.description {
+    width: 55%;
+    letter-spacing: 1px;
+    line-height: 24px;
+    margin-left: 300px;
+    margin-top: 24px;
+}
+
+.con-deco, .row, .col, .col-6 {
+    margin-right: 0;
+    margin-top: 0;
+    padding-top: 0;
+    padding-right: 0;
+}
+
+.deco-pattern {
+    display: inline-block;
+    width: 760px;
+    margin-right: 0;
+}

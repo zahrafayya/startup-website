@@ -1,0 +1,60 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = startup_website
+build_property.RootNamespace = startup_website
+build_property.ProjectDir = D:\Kuliah\Semester 4\Pemrograman Berbasis Kerangka Kerja\Quiz 1\startup-website\startup-website\startup-website\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Kuliah\Semester 4\Pemrograman Berbasis Kerangka Kerja\Quiz 1\startup-website\startup-website\startup-website
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Kuliah/Semester 4/Pemrograman Berbasis Kerangka Kerja/Quiz 1/startup-website/startup-website/startup-website/Views/HelloWorld/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9Xb3JsZFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Kuliah/Semester 4/Pemrograman Berbasis Kerangka Kerja/Quiz 1/startup-website/startup-website/startup-website/Views/q1/Collaboration.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccTFcQ29sbGFib3JhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Kuliah/Semester 4/Pemrograman Berbasis Kerangka Kerja/Quiz 1/startup-website/startup-website/startup-website/Views/q1/Company.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccTFcQ29tcGFueS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Kuliah/Semester 4/Pemrograman Berbasis Kerangka Kerja/Quiz 1/startup-website/startup-website/startup-website/Views/q1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccTFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Kuliah/Semester 4/Pemrograman Berbasis Kerangka Kerja/Quiz 1/startup-website/startup-website/startup-website/Views/q1/Product.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccTFcUHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Kuliah/Semester 4/Pemrograman Berbasis Kerangka Kerja/Quiz 1/startup-website/startup-website/startup-website/Views/q1/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccTFcUHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Kuliah/Semester 4/Pemrograman Berbasis Kerangka Kerja/Quiz 1/startup-website/startup-website/startup-website/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Kuliah/Semester 4/Pemrograman Berbasis Kerangka Kerja/Quiz 1/startup-website/startup-website/startup-website/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Kuliah/Semester 4/Pemrograman Berbasis Kerangka Kerja/Quiz 1/startup-website/startup-website/startup-website/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Kuliah/Semester 4/Pemrograman Berbasis Kerangka Kerja/Quiz 1/startup-website/startup-website/startup-website/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Kuliah/Semester 4/Pemrograman Berbasis Kerangka Kerja/Quiz 1/startup-website/startup-website/startup-website/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-6zj4zynw43

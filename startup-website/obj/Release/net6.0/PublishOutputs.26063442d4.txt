@@ -1,0 +1,7 @@
+D:\Kuliah\Semester 4\Pemrograman Berbasis Kerangka Kerja\Quiz 1\startup-website\startup-website\startup-website\obj\Release\net6.0\PubTmp\Out\startup-website.exe
+D:\Kuliah\Semester 4\Pemrograman Berbasis Kerangka Kerja\Quiz 1\startup-website\startup-website\startup-website\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Kuliah\Semester 4\Pemrograman Berbasis Kerangka Kerja\Quiz 1\startup-website\startup-website\startup-website\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Kuliah\Semester 4\Pemrograman Berbasis Kerangka Kerja\Quiz 1\startup-website\startup-website\startup-website\obj\Release\net6.0\PubTmp\Out\startup-website.dll
+D:\Kuliah\Semester 4\Pemrograman Berbasis Kerangka Kerja\Quiz 1\startup-website\startup-website\startup-website\obj\Release\net6.0\PubTmp\Out\startup-website.deps.json
+D:\Kuliah\Semester 4\Pemrograman Berbasis Kerangka Kerja\Quiz 1\startup-website\startup-website\startup-website\obj\Release\net6.0\PubTmp\Out\startup-website.runtimeconfig.json
+D:\Kuliah\Semester 4\Pemrograman Berbasis Kerangka Kerja\Quiz 1\startup-website\startup-website\startup-website\obj\Release\net6.0\PubTmp\Out\startup-website.pdb

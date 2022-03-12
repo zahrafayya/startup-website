@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA9JtBw3oHik6UQdhsmqSvowAAAAACAAAAAAAQZgAAAAEAACAAAAD7brWuRCMsB8KYahSsS9DYYaY6t7foGDE5u7RQFGVEkQAAAAAOgAAAAAIAACAAAAB2fNf22zIcJis2D2r8dGViwpDq1g29jyHEyEmVQYem1iAAAABsyYz1PK6NyDxO5hDozdzkOQhcstXPWS8/vuyjKN+V1UAAAADP1WcFYYT7Uuka9L82YOm9kl++u3ICCOyUG4nmi6MHlslXOtxLtQnT+LeiYjoxlN650TPbane9Vsgv0sPlZSMO</EncryptedPassword>
+    <History>False|2022-03-12T14:22:10.1603736Z;</History>
+    <_PublishTargetUrl>ftp://www.kaleidoscope.net/Kaleidoscope</_PublishTargetUrl>
+  </PropertyGroup>
+</Project>

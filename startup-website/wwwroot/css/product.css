@@ -1,0 +1,26 @@
+.section {
+    padding-right: 28px;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.figure {
+    margin-top: 24px;
+}
+
+.figure-img {
+    height: auto;
+    width: 460px;
+}
+
+.fig-title {
+    margin-top: 14px;
+    color: #fff;
+}
+
+.fig-desc {
+    width: 460px;
+}
